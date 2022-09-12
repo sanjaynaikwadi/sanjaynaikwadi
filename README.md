@@ -1,5 +1,5 @@
 <h1 align="center">Hi !! I am Sanjay</h1>
-<h3 align="center">You can call me as: Linux Admin / SRE / Cloud Admin / DevOps / Solution Architect</h3>
+<h3 align="center">You can call me as: Linux Admin / SRE / Cloud Ops / DevOps / Solution Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaynaikwadi&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaynaikwadi" /> </p>
 
